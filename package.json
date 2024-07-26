@@ -1,0 +1,16 @@
+{
+  "name": "cybertage",
+  "version": "1.0.0",
+  "description": "A simple little offensive programming game. (Unfinished/discontinued)",
+  "keywords": [],
+  "author": "Inbestigator",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.7.4"
+  }
+}
